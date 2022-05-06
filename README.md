@@ -1,13 +1,10 @@
 # Arrest Manager
-Arrest Manager is a plugin for LSPDFR by Albo1125 with nearly one million downloads on lspdfr.com. Originally released in 2015 under the name of 'More Jail Points', this is the first plugin for LSPDFR I ever wrote. In fact, it was my first ever proper C# project.
+Arrest Manager is a plugin for LSPDFR by Albo1125 with nearly one million downloads on lspdfr.com. 
 
-[Download page here (contains plenty of info on features)](https://www.lcpdfr.com/files/file/8107-arrest-manager-grab-peds-more-jail-points-prisoner-transport-more/)
+[Download page here (contains plenty of info on features)](#)
 
-[Check out my YouTube channel](https://www.youtube.com/channel/UCSDMQS6b2roa-dZ0vAyaVWg)
 
-[Why I'm open sourcing some of my LSPDFR plugins](https://www.lcpdfr.com/forums/topic/87615-open-sourcing-albo1125s-mods-retirement/)
-
-[All donations are welcome and appreciated](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T9T5RTSWX8PEY)
+Message from Albo...
 
 ## Code & building
 Quite simple, clone the repo, place the below dependencies into a new **Arrest Manager/dependencies** folder. It should then build without issue.
@@ -22,11 +19,5 @@ They may make it into a release and, of course, you'll be credited appropriately
 Obviously, feel free to use this as a resource to learn from and improve your programming skills for RPH (credits appreciated, please see licence also if copying/using larger parts of the code).
 
 ## Developer dependencies
-* [Albo1125.Common by Albo1125](http://www.lcpdfr.com/files/file/10294-albo1125common/)
-* [Better EMS by PNWParksFan](https://www.lcpdfr.com/files/file/11647-better-ems/)
-* [ComputerPlus by PieRGud](https://github.com/PieRGud/ComputerPlus)
-* [LSPD First Response by G17 Media](https://www.lcpdfr.com/files/file/7792-lspd-first-response/)
-* [PoliceSmartRadio by Albo1125](https://www.lcpdfr.com/files/file/15354-police-smartradio-the-successor-to-police-radio/)
-* [RAGENativeUI by Alexguirre](https://github.com/alexguirre/RAGENativeUI)
-* [RAGEPluginHook SDK by MulleDK19](http://ragepluginhook.net/Downloads.aspx)
-* [VocalDispatch by turbofandude](https://www.lcpdfr.com/files/file/10593-vocaldispatch/)
+
+
